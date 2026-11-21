@@ -1,0 +1,12 @@
+name: "Salesforce Net Zero Cloud"
+description: "Sustainability management cloud built on Salesforce for carbon accounting, ESG reporting, and climate action planning. Integrates with Salesforce CRM and supports scope 1, 2, and 3 emissions tracking. Paid enterprise subscription."
+source_url: "https://www.salesforce.com/products/net-zero-cloud/overview"
+category: "Carbon Accounting Platforms"
+tags:
+  - "enterprise"
+  - "paid"
+  - "salesforce"
+  - "crm"
+icon_url: "https://icons.duckduckgo.com/ip3/www.salesforce.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.salesforce.com/products/net-zero-cloud/overview>\n"
+updated_at: "2026-11-21 01:29"

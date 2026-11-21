@@ -1,0 +1,12 @@
+name: "Microsoft Sustainability Manager"
+description: "Cloud-based sustainability management solution within Microsoft Cloud for Sustainability. Tracks emissions, waste, and water usage across operations and value chains. Paid Dynamics 365 licensing."
+source_url: "https://dynamics.microsoft.com/sustainability-manager"
+category: "Carbon Accounting Platforms"
+tags:
+  - "paid"
+  - "enterprise"
+  - "cloud"
+  - "microsoft"
+icon_url: "https://icons.duckduckgo.com/ip3/dynamics.microsoft.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://dynamics.microsoft.com/sustainability-manager>\n"
+updated_at: "2026-11-21 01:29"

@@ -1,0 +1,13 @@
+name: "CodeCarbon"
+description: "Open-source Python package that estimates CO2 emissions from code execution and computing workloads. Tracks energy consumption and carbon impact of software. Free to use."
+source_url: "https://codecarbon.io/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "free"
+  - "python"
+  - "developer"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/codecarbon.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://codecarbon.io/>\n- Repository: <https://github.com/mlco2/codecarbon>\n\nLicense: Apache 2.0.\n"
+updated_at: "2026-11-21 01:29"

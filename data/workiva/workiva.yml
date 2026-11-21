@@ -1,0 +1,12 @@
+name: "Workiva"
+description: "Cloud platform for ESG and CSRD reporting, financial reporting, and audit workflows. Enables collaborative data collection, disclosure drafting, and XBRL tagging for sustainability reports. Paid enterprise subscription."
+source_url: "https://workiva.com/"
+category: "ESG & CSRD Reporting"
+tags:
+  - "enterprise"
+  - "paid"
+  - "csrd"
+  - "reporting"
+icon_url: "https://icons.duckduckgo.com/ip3/workiva.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://workiva.com/>\n"
+updated_at: "2026-11-21 01:29"

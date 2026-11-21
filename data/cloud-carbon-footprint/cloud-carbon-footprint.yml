@@ -1,0 +1,13 @@
+name: "Cloud Carbon Footprint"
+description: "Open-source tool to estimate and measure carbon emissions from cloud usage across AWS, Azure, and GCP. Provides CLI and web interface for cloud carbon monitoring. Apache 2.0 licensed."
+source_url: "https://www.cloudcarbonfootprint.org/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "free"
+  - "cloud"
+  - "api"
+  - "self-hosted"
+icon_url: "https://icons.duckduckgo.com/ip3/www.cloudcarbonfootprint.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.cloudcarbonfootprint.org/>\n- Repository: <https://github.com/cloud-carbon-footprint/cloud-carbon-footprint>\n\nLicense: Apache 2.0.\n"
+updated_at: "2026-11-21 01:29"

@@ -1,0 +1,12 @@
+name: "Watershed"
+description: "Enterprise carbon accounting platform that helps large companies measure, report, and reduce emissions across scopes 1, 2, and 3. It aggregates utility, spend, and activity data for climate disclosure and decarbonization planning. Paid enterprise subscription."
+source_url: "https://watershed.com/"
+category: "Carbon Accounting Platforms"
+tags:
+  - "enterprise"
+  - "paid"
+  - "api"
+  - "scope-3"
+icon_url: "https://icons.duckduckgo.com/ip3/watershed.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://watershed.com/>\n"
+updated_at: "2026-11-21 01:29"

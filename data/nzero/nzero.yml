@@ -1,0 +1,12 @@
+name: "nZero"
+description: "Carbon management platform that provides 24/7 granular emissions tracking for utilities, governments, and enterprises. Uses interval data for precise carbon accounting. Paid enterprise subscription."
+source_url: "https://nzero.com/"
+category: "Carbon Accounting Platforms"
+tags:
+  - "enterprise"
+  - "paid"
+  - "utilities"
+  - "real-time"
+icon_url: "https://icons.duckduckgo.com/ip3/nzero.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://nzero.com/>\n"
+updated_at: "2026-11-21 01:29"

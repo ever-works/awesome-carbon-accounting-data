@@ -1,0 +1,12 @@
+- id: carbon-accounting-platforms
+  name: "Carbon Accounting Platforms"
+- id: esg-and-csrd-reporting
+  name: "ESG & CSRD Reporting"
+- id: scope-3-supply-chain-emissions
+  name: "Scope 3 / Supply-Chain Emissions"
+- id: carbon-apis-and-emission-factors
+  name: "Carbon APIs & Emission Factors"
+- id: product-carbon-footprint-lca
+  name: "Product Carbon Footprint (LCA)"
+- id: open-source
+  name: "Open Source"

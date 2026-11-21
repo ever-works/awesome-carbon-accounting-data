@@ -1,0 +1,60 @@
+- id: enterprise
+  name: "Enterprise"
+- id: paid
+  name: "Paid"
+- id: api
+  name: "API"
+- id: scope-3
+  name: "Scope 3"
+- id: ai-powered
+  name: "AI-Powered"
+- id: csrd
+  name: "CSRD"
+- id: sme
+  name: "SME"
+- id: freemium
+  name: "Freemium"
+- id: supply-chain
+  name: "Supply Chain"
+- id: ehs
+  name: "EHS"
+- id: reporting
+  name: "Reporting"
+- id: cloud
+  name: "Cloud"
+- id: microsoft
+  name: "Microsoft"
+- id: salesforce
+  name: "Salesforce"
+- id: crm
+  name: "CRM"
+- id: emission-factors
+  name: "Emission Factors"
+- id: developer
+  name: "Developer"
+- id: europe
+  name: "Europe"
+- id: compliance
+  name: "Compliance"
+- id: open-source
+  name: "Open Source"
+- id: free
+  name: "Free"
+- id: lca
+  name: "LCA"
+- id: desktop
+  name: "Desktop"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: python
+  name: "Python"
+- id: offsets
+  name: "Offsets"
+- id: carbon-removal
+  name: "Carbon Removal"
+- id: esg
+  name: "ESG"
+- id: utilities
+  name: "Utilities"
+- id: real-time
+  name: "Real-Time"

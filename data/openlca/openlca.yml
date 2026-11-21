@@ -1,0 +1,12 @@
+name: "OpenLCA"
+description: "Open-source life cycle assessment and carbon footprint software for product and system modeling. Supports ISO 14040/44 and connects to LCA databases. Free to download and modify."
+source_url: "https://www.openlca.org/"
+category: "Product Carbon Footprint (LCA)"
+tags:
+  - "open-source"
+  - "free"
+  - "lca"
+  - "desktop"
+icon_url: "https://icons.duckduckgo.com/ip3/www.openlca.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.openlca.org/>\n- Repository: <https://github.com/GreenDelta/openLCA>\n\nLicense: Mozilla Public License 2.0.\n"
+updated_at: "2026-11-21 01:29"
