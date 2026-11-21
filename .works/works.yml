@@ -1,18 +1,22 @@
-company_name: "Awesome Carbon Accounting"
+company_name: Awesome Carbon Accounting
 content_table: true
 item_name: Item
 items_name: Items
 paging_mode: paging
 copyright_year: 2026
-name: "Awesome Carbon Accounting"
-initial_prompt: "A curated directory of carbon-accounting, ESG/CSRD-reporting and emissions-data software. Include products such as Watershed, Persefoni, Sweep, Normative, Plan A, Greenly, Sphera, Workiva, Microsoft Sustainability Manager, Salesforce Net Zero Cloud, Climatiq, Emitwise, plus other notable commercial and open-source options. Categories: Carbon Accounting Platforms, ESG & CSRD Reporting, Scope 3 / Supply-Chain Emissions, Carbon APIs & Emission Factors, Product Carbon Footprint (LCA), Open Source. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
-providers:
-  ai: openrouter
-  search: tavily
-  pipeline: agent-pipeline
-  contentExtractor: local-content-extractor
-website_repo: "ever-works/awesome-carbon-accounting-website"
-company_website: "https://carbon-accounting.ever.works"
+name: Awesome Carbon Accounting
+initial_prompt: "A curated directory of carbon-accounting, ESG/CSRD-reporting
+  and emissions-data software. Include products such as Watershed, Persefoni,
+  Sweep, Normative, Plan A, Greenly, Sphera, Workiva, Microsoft Sustainability
+  Manager, Salesforce Net Zero Cloud, Climatiq, Emitwise, plus other notable
+  commercial and open-source options. Categories: Carbon Accounting Platforms,
+  ESG & CSRD Reporting, Scope 3 / Supply-Chain Emissions, Carbon APIs & Emission
+  Factors, Product Carbon Footprint (LCA), Open Source. For every item capture
+  the official website, a short factual description, pricing model (free,
+  freemium, paid, open source), deployment (cloud or self-hosted), key features
+  and integrations."
+website_repo: ever-works/awesome-carbon-accounting-website
+company_website: https://carbon-accounting.ever.works
 settings:
   categories_enabled: true
   companies_enabled: true
@@ -29,3 +33,5 @@ custom_menu:
   header: []
   footer: []
 version: 0.1.0
+activity_sync:
+  mode: pull
